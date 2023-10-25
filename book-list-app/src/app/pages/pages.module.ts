@@ -23,7 +23,7 @@ import { ReduceTextPipe } from './reduce-text/reduce-text.pipe';
     PagesComponent,
     HomeComponent,
     CartComponent,
-    ReduceTextPipe,
+    ReduceTextPipe
   ],
   exports: [
     PagesComponent,
